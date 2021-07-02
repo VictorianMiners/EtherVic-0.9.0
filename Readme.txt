@@ -11,6 +11,7 @@ Miner will call reboot.bat when it crashes. On new versions we will add more fea
 Miner optimized to negotiate with pool to obtain best performance. Check Pool Hashrate as the main performance report, as it is not only affected by GPU hashrate speed, but also other factors like network performance
 Devfee 1%
 
+We strongly suggest to only apply OC settings after the DAG is generated
 
 **********
 Instructions:
